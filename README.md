@@ -17,7 +17,7 @@ The tasks are here:
 https://softuni.bg/trainings/resources/officedocument/12046/lab-problem-descriptions-programming-fundamentals-january-2017;
 https://softuni.bg/trainings/resources/officedocument/12087/exercises-problem-descriptions-programming-fundamentals-january-2017.
 
--problems with Lists - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/Lists
+- problems with Lists - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/Lists
 The tasks are here:
 https://softuni.bg/trainings/resources/officedocument/12149/lab-problem-descriptions-programming-fundamentals-january-2017;
 https://softuni.bg/trainings/resources/officedocument/12220/exercise-problem-descriptions-programming-fundamentals-january-2017.
