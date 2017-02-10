@@ -26,3 +26,8 @@ https://softuni.bg/trainings/resources/officedocument/12220/exercise-problem-des
 Description of problems:
 https://softuni.bg/trainings/resources/officedocument/12251/lab-problem-descriptions-programming-fundamentals-january-2017;
 https://softuni.bg/trainings/resources/officedocument/12293/exercise-problem-descriptions-programming-fundamentals-january-2017.
+
+- problems with Objects and Classes - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/ObjectsAndClasses
+Description of problems:
+https://softuni.bg/trainings/resources/officedocument/12400/lab-problem-descriptions-programming-fundamentals-january-2017;
+https://softuni.bg/trainings/resources/officedocument/12442/exercise-problem-descriptions-programming-fundamentals-january-2017.
