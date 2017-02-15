@@ -31,3 +31,8 @@ https://softuni.bg/trainings/resources/officedocument/12293/exercise-problem-des
 Description of problems:
 https://softuni.bg/trainings/resources/officedocument/12400/lab-problem-descriptions-programming-fundamentals-january-2017;
 https://softuni.bg/trainings/resources/officedocument/12442/exercise-problem-descriptions-programming-fundamentals-january-2017.
+
+- problems with Strings - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/Strings
+Description of problems:
+https://softuni.bg/trainings/resources/officedocument/12600/lab-problem-descriptions-programming-fundamentals-january-2017;
+https://softuni.bg/trainings/resources/officedocument/12651/exercise-problem-descriptions-programming-fundamentals-january-2017.
