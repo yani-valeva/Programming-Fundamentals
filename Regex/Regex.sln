@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceTag", "ReplaceTag\ReplaceTag.csproj", "{1F6B6BC7-8AF3-442F-AD80-24DAD03B3DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractEmails", "ExtractEmails\ExtractEmails.csproj", "{8F649575-692D-4FC3-ADCB-BCF4D0D337B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSentencesByKeyword", "ExtractSentencesByKeyword\ExtractSentencesByKeyword.csproj", "{66BED32A-4510-42CC-AAF9-AAA3D470F370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidUsernames", "ValidUsernames\ValidUsernames.csproj", "{ECD833D8-2BBC-45B8-8649-DDD83948E5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryMess", "QueryMess\QueryMess.csproj", "{65399AFE-C4EA-4C10-A293-D53A9DAF17EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseYourChains", "UseYourChains\UseYourChains.csproj", "{BD7DFC59-D2FC-4ED4-AE0C-052DD71613BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6B6BC7-8AF3-442F-AD80-24DAD03B3DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6B6BC7-8AF3-442F-AD80-24DAD03B3DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6B6BC7-8AF3-442F-AD80-24DAD03B3DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6B6BC7-8AF3-442F-AD80-24DAD03B3DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F649575-692D-4FC3-ADCB-BCF4D0D337B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F649575-692D-4FC3-ADCB-BCF4D0D337B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F649575-692D-4FC3-ADCB-BCF4D0D337B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F649575-692D-4FC3-ADCB-BCF4D0D337B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BED32A-4510-42CC-AAF9-AAA3D470F370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BED32A-4510-42CC-AAF9-AAA3D470F370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BED32A-4510-42CC-AAF9-AAA3D470F370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BED32A-4510-42CC-AAF9-AAA3D470F370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD833D8-2BBC-45B8-8649-DDD83948E5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD833D8-2BBC-45B8-8649-DDD83948E5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD833D8-2BBC-45B8-8649-DDD83948E5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD833D8-2BBC-45B8-8649-DDD83948E5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65399AFE-C4EA-4C10-A293-D53A9DAF17EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65399AFE-C4EA-4C10-A293-D53A9DAF17EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65399AFE-C4EA-4C10-A293-D53A9DAF17EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65399AFE-C4EA-4C10-A293-D53A9DAF17EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7DFC59-D2FC-4ED4-AE0C-052DD71613BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7DFC59-D2FC-4ED4-AE0C-052DD71613BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7DFC59-D2FC-4ED4-AE0C-052DD71613BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7DFC59-D2FC-4ED4-AE0C-052DD71613BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
