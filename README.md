@@ -36,3 +36,8 @@ https://softuni.bg/trainings/resources/officedocument/12442/exercise-problem-des
 Description of problems:
 https://softuni.bg/trainings/resources/officedocument/12600/lab-problem-descriptions-programming-fundamentals-january-2017;
 https://softuni.bg/trainings/resources/officedocument/12651/exercise-problem-descriptions-programming-fundamentals-january-2017.
+
+- problems with Regex - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/Regex
+Description of problems:
+https://softuni.bg/trainings/resources/officedocument/12662/lab-problem-descriptions-programming-fundamentals-january-2017;
+https://softuni.bg/trainings/resources/officedocument/12704/exercise-problem-descriptions-programming-fundamentals-january-2017.
