@@ -43,3 +43,5 @@ https://softuni.bg/trainings/resources/officedocument/12662/lab-problem-descript
 https://softuni.bg/trainings/resources/officedocument/12704/exercise-problem-descriptions-programming-fundamentals-january-2017.
 
 - exam preparation - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/ExamPreparation
+
+- Final exam - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/Exam.
