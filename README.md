@@ -45,3 +45,8 @@ https://softuni.bg/trainings/resources/officedocument/12704/exercise-problem-des
 - exam preparation - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/ExamPreparation
 
 - Final exam - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/Exam.
+
+# Programming-Fundamentals - extended:
+
+- Basic Syntax problems - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/BasicSyntax.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/14914/lab-problem-descriptions-programming-fundamentals-extended-may-2017.
