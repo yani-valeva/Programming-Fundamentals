@@ -49,4 +49,7 @@ https://softuni.bg/trainings/resources/officedocument/12704/exercise-problem-des
 # Programming-Fundamentals - extended:
 
 - Basic Syntax problems - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/BasicSyntax.
-Description of problems - https://softuni.bg/trainings/resources/officedocument/14914/lab-problem-descriptions-programming-fundamentals-extended-may-2017, https://softuni.bg/trainings/resources/officedocument/15092/exercise-problem-descriptions-programming-fundamentals-extended-may-2017
+Description of problems - https://softuni.bg/trainings/resources/officedocument/14914/lab-problem-descriptions-programming-fundamentals-extended-may-2017, https://softuni.bg/trainings/resources/officedocument/15092/exercise-problem-descriptions-programming-fundamentals-extended-may-2017;
+
+- Conditional Statements and Loops - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/ConditionalStatements%D0%90ndLoops.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/15126/lab-problem-descriptions-programming-fundamentals-extended-may-2017, https://softuni.bg/trainings/resources/officedocument/15176/exercise-problem-descriptions-programming-fundamentals-extended-may-2017.
