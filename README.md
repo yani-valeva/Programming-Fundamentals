@@ -58,4 +58,7 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 Description of problems - https://softuni.bg/trainings/resources/officedocument/15322/exercise-problem-descriptions-programming-fundamentals-extended-may-2017;
 
 - Numeral types and type conversion - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/NumeralTypesAndTypeConvertion.
-Description of problems - https://softuni.bg/trainings/resources/officedocument/15324/lab-problem-descriptions-programming-fundamentals-extended-may-2017.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/15324/lab-problem-descriptions-programming-fundamentals-extended-may-2017,
+
+- Data Types - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/DataTypesAndVariables.
+Description of problems - https://softuni.bg/trainings/resources/officedocument/15414/exercise-problem-descriptions-programming-fundamentals-extended-may-2017.
