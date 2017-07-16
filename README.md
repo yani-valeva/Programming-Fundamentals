@@ -44,7 +44,9 @@ https://softuni.bg/trainings/resources/officedocument/12704/exercise-problem-des
 
 - exam preparation - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/ExamPreparation
 
-- Final exam - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/Exam.
+- Final exam - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/Exam;
+
+- Exam July - https://github.com/yani-valeva/Programming-Fundamentals/tree/master/ExamJuly.
 
 # Programming-Fundamentals - extended:
 
